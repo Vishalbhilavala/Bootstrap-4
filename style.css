@@ -370,6 +370,9 @@ body {
   .sec-3-text {
     margin: 1rem 0 !important;
   }
+  .padding-0 {
+    padding: 0rem !important;
+  }
 }
 
 @media screen and (max-width: 992px) {
